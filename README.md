@@ -1,1 +1,1 @@
-simple example of code done in C++ by me for samples. Additionally, I have a https://github.com/lolnuggets/dndinittracker. The database uuused is sql and i deleted it and am not hosting the website anywhere anymore.
+Simple example of code done in C++ by me for samples. Additionally, I have a https://github.com/lolnuggets/dndinittracker. The database used is SQL and I deleted it and am not hosting the website anywhere anymore.
